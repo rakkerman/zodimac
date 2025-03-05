@@ -8,7 +8,9 @@ Zodimac will pull all machines in your local network, find out their unique geno
 
 ## How to run:
 ### Zodimac standalone
-Download the executable (it looks dangerous but please look at the code to see how it is very safe), and run it on your machine. It should open a python script and return some lovely feature cards in the form of pop up windows on all your co-internet-habitation devices. All the names you'll see are names that are given to your devices themselves and do not specifically need to be OS specifice (for example, i've named my tv: samsung-annoyance. It will show that name instead of tv. so it is a bit dependable). So also if it doesn't return a name, or a weird string, go and check out your router data!
+Download the executable (it looks dangerous but please look at the code to see how it is very safe), and run it on your machine. It might ask you to make sure to trust it through security & privacy status. It should open a python script and return some lovely feature cards in the form of pop up windows on all your co-internet-habitation devices. 
+
+All the names you'll see are names that are given to your devices themselves and do not specifically need to be OS specifice (for example, i've named my tv: samsung-annoyance. It will show that name instead of tv. so it is a bit dependable). So also if it doesn't return a name, or a weird string, go and check out your router data!
 
 The idea is that you can use this information to go more into a deep dive yourself (like logging into your router and see what these devices are and maybe even blocking it). The first step would be to access your router (there should be a how to on the back of your router), but mostly happens if you go to 192.168.1.1 in your browser (where you normally type in google.com). From there on it is up to you. 
 
