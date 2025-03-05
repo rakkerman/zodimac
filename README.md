@@ -3,12 +3,13 @@ In our new age of internet supremacy, do we still know what is going on within o
 
 This small python executable helps with lightening the mood, and to encourage you to look at all the devices present in your network (a bit of practical security practice). While also finding out how their current months cycle is in line with yours. Is there true enlightenment in your relationship. 
 
-You can download the executable (I know I tried) or pull the codebase and run it within your own means. 
-Zodimac will pull all machines in your local network, find out their unique genotype known as a MAC adress and return you a small overview of their current zodiac, their IP and the information that is present from the small pull. There are 2 versions; A standalone executable without admin access (gives less specific information on the device) and a second version that needs packages and local admin access. 
-
 ## How to run:
 ### Zodimac standalone
-Download the executable (it looks dangerous but please look at the code to see how it is very safe), and run it on your machine. It might ask you to make sure to trust it through security & privacy status. It should open a python script and return some lovely feature cards in the form of pop up windows on all your co-internet-habitation devices. 
+On this page, on the green "code" button you can click and find "download zip". When it is downloaded you'll have to make sure to unzip it (this is automatically done sometimes as well). You'll see maps that you can open in your finder/file explorer. If you open the map dist there will be a file called: zodimac (which will be a unix executable). If you double click on that you'll be able to run the application. 
+
+It will tell you that the file is dangerous (I understand this but there is no other way for everyone to run it easily without using python). So you'll have to go into the security & privacy to say that this application is okay for you to run. 
+
+This will open a lovely terminal screen that will run a tkinter GUI for you to see what beautifull things are living in your current network!
 
 All the names you'll see are names that are given to your devices themselves and do not specifically need to be OS specifice (for example, i've named my tv: samsung-annoyance. It will show that name instead of tv. so it is a bit dependable). So also if it doesn't return a name, or a weird string, go and check out your router data!
 
