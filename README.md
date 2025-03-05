@@ -1,9 +1,9 @@
-# Zodimac
+# Zodimac 
 In our new age of internet supremacy, do we still know what is going on within our own network? Like, what machines are actually enjoying our company? Why is our printer not working again? Is there really symbiosis between our router and the smart robot cleaning our floors? 
 
 This small python executable helps with lightening the mood, and to encourage you to look at all the devices present in your network (a bit of practical security practice). While also finding out how their current months cycle is in line with yours. Is there true enlightenment in your relationship. 
 
-## How to run:
+## How to run (currently only MacOS validated) :
 ### Zodimac standalone
 1. Go to the top left green "code" button and click on "download zip".
 2. Unzip the file in your finder or file explorer
