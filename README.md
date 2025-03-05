@@ -5,11 +5,14 @@ This small python executable helps with lightening the mood, and to encourage yo
 
 ## How to run:
 ### Zodimac standalone
-On this page, on the green "code" button you can click and find "download zip". When it is downloaded you'll have to make sure to unzip it (this is automatically done sometimes as well). You'll see maps that you can open in your finder/file explorer. If you open the map dist there will be a file called: zodimac (which will be a unix executable). If you double click on that you'll be able to run the application. 
-
-It will tell you that the file is dangerous (I understand this but there is no other way for everyone to run it easily without using python). So you'll have to go into the security & privacy to say that this application is okay for you to run. 
-
-This will open a lovely terminal screen that will run a tkinter GUI for you to see what beautifull things are living in your current network!
+1. Go to the top left green "code" button and click on "download zip".
+2. Unzip the file in your finder or file explorer
+3. Open the "dist" map and double click on the zodimac file.
+4. Go to your security & privacy settings to allow this application to run
+5. It opens a terminal screen
+6. It opens Zodimac as a little tkinter GUI
+7. Enjoy
+8. Research your network further!
 
 All the names you'll see are names that are given to your devices themselves and do not specifically need to be OS specifice (for example, i've named my tv: samsung-annoyance. It will show that name instead of tv. so it is a bit dependable). So also if it doesn't return a name, or a weird string, go and check out your router data!
 
