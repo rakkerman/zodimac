@@ -18,10 +18,8 @@ All the names you'll see are names that are given to your devices themselves and
 
 The idea is that you can use this information to go more into a deep dive yourself (like logging into your router and see what these devices are and maybe even blocking it). The first step would be to access your router (there should be a how to on the back of your router), but mostly happens if you go to 192.168.1.1 in your browser (where you normally type in google.com). From there on it is up to you. 
 
-### Zodimac_sudo_nmap
-This one is a bit more tricky, You can pull the repository of the script and run it from the terminal (using python3 Zodimac_sudo_nmap.py while in the map that you have downloaded it to). It will need to have a base python3.13 installation as well as nmap (brew install nmap). It will request a Sudo (admin) password so it can actually do a retraceable DNS call. 
-
-Afterwards the script loses access to the password (sudo is not being saved anywhere), and you'll be left with a bit more in depth (hopefully) information on the active devices in your network. From here on I'd recommend also checking out your router and try to get some intel on what else is there on your network. 
+### Zodimac.py
+This one is a bit more tricky, You can pull the repository of the script and run it from the terminal (using python3 Zodimac.py while in the map that you have downloaded it to). It will need to have a base python3.13 installation. 
 
 ## Final takeaways
 This is a combination of an art project as well as a way of getting people to understand bettter what is happening on their network and encourage everybody to see if their network is secure and safe. 
